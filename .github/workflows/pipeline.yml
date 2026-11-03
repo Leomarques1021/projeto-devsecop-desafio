@@ -65,7 +65,7 @@ jobs:
       # E rode:
       #   grype dir:. --fail-on medium
       - name: 📦 SCA - Grype
-        run: echo "TODO - implemente o SCA com Grype aqui"
+        
 
       # ── Empacota o site em um artefato tar (formato que o Pages consome)
       - name: 📦 Empacotar artefato do site
